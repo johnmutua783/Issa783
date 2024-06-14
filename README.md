@@ -29,7 +29,7 @@ I participated in the development of a comprehensive hotel website. This project
 I'm always eager to learn more and am currently diving deeper into:
 - Data visualization techniques 🎉
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/john-mutua-8239b2292/) 🔗
+- [LinkedIn](https://www.linkedin.com/in/john-mutua) 🔗
 - [Twitter](https://twitter.com/Shata995770042) 🐦
 - [Email](mailto:mutuabenedict920@gmail.com) 📧
 
