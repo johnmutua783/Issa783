@@ -20,7 +20,7 @@ I'm currently working on some exciting data analysis projects where I leverage m
 ## 🌟 Featured Projects
 
 ### Hotel Website Project 🏨
-I participated in the development of a comprehensive hotel website. This project involved creating responsive web pages, implementing booking functionalities, and ensuring a user-friendly interface.
+I participated in the development of a comprehensive hotel website. This project involved creating responsive web pages and ensuring a user-friendly interface.
 
 - [https://github.com/MwangeLee/golden-gates-hotel) 📂
 - [Live Demo](https://mwangelee.github.io/golden-gates-hotel/index.html) 🌐
