@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about web development and data analysis. Here's a bit about me and what I do:
 
-## 🚀 Skills
+##  Skills
 
 ### Web Development
 - **HTML** 
@@ -28,7 +28,7 @@ I participated in the development of a comprehensive hotel website. This project
 ##  What I'm Learning
 I'm always eager to learn more and am currently diving deeper into:
 - Data visualization techniques 
-## 🔗 Connect with Me
+##  Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/john-mutua-webdev) 
 - [Twitter](https://twitter.com/Shata995770042) 
 - [Email](mailto:mutuabenedict920@gmail.com) 
