@@ -29,9 +29,9 @@ I participated in the development of a comprehensive hotel website. This project
 I'm always eager to learn more and am currently diving deeper into:
 - Data visualization techniques 🎉
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/john-mutua) 🔗
+- [LinkedIn](https://www.linkedin.com/in/john-mutua-webdev) 🔗
 - [Twitter](https://twitter.com/Shata995770042) 🐦
 - [Email](mailto:mutuabenedict920@gmail.com) 📧
 
 ## 📈 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issa783&show_icons=true&theme=radical)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmutua783&show_icons=true&theme=radical)
